@@ -1,0 +1,24 @@
+@media (max-width:768px){
+    .header__link{
+        display: none;
+    }
+    .burger{
+        display: block;
+    }
+    .open-btn{
+        display: none;
+
+    }
+    .spinner {
+        width: 44px;
+        height: 44px;
+        animation: spinner-y0fdc1 2s infinite ease;
+        transform-style: preserve-3d;
+        margin-left: 265px;
+        margin-top: 270px;
+        
+       }
+       .footer__link{
+        display: none;
+       }
+}
